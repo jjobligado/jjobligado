@@ -12,12 +12,6 @@ Hi, I'm Jasmin Joyce (Min) Obligado 👋<br><br>I'm a Software Engineering stude
 ![](https://streak-stats.demolab.com/?user=jjobligado&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=jjobligado&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jjobligado&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jjobligado&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://komarev.com/ghpvc/?username=jjobligado&icon=0&color=10)](https://visitcount.itsvg.in)
 
